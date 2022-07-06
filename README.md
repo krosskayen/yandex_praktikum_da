@@ -2,4 +2,4 @@
 
 | Название проекта | Описание | Используемые инструменты (в т.ч. библиотеки) | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Анализ успешности игр](https://github.com/krosskayen/project_games/blob/main/project_games_clear.ipynb) | Определение потенциально успешных игр для планирования рекламной кампании.| *`python` (`pandas`, `matplotlib`, `seaborn`, `scipy`)* |
+| [Анализ успешности игр](https://github.com/krosskayen/yandex_praktikum_da/blob/main/game_sales/project_games.ipynb) | Определение потенциально успешных игр для планирования рекламной кампании.| *`python` (`pandas`, `matplotlib`, `seaborn`, `scipy`)* |
