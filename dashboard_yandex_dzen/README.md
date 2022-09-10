@@ -13,4 +13,4 @@
 *python (pandas, sqlalchemy), tableau*
 
 ## Достигнутый результат
-Подготовлен дашборд и презентация с полученными графиками 
+Подготовлен [дашборд](https://public.tableau.com/app/profile/matvey.gulyaev/viz/project_yandex_tableau/Dashboard?publish=yes) и презентация с полученными графиками 
