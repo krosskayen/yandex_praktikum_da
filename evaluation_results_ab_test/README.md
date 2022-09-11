@@ -1,4 +1,4 @@
-# [Проект: Оценка результатов АБ-теста по изменениям, связанным с внедрением улучшенной рекомендательной системы] (https://nbviewer.org/github/krosskayen/yandex_praktikum_da/blob/main/evaluation_results_ab_test/project_a-b-testing_final.ipynb)
+# [Проект: Оценка результатов АБ-теста по изменениям, связанным с внедрением улучшенной рекомендательной системы](https://nbviewer.org/github/krosskayen/yandex_praktikum_da/blob/main/evaluation_results_ab_test/project_a-b-testing_final.ipynb)
 
 ## Данные
 Датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
